@@ -1,0 +1,3 @@
+pip install llama-index llama-index-embeddings-nomic faiss-cpu streamlit langchain
+pip install streamlit langchain langchain-community faiss-cpu
+pip install langchain faiss-cpu sentence-transformers pypdf streamlit pymupdf transformers accelerate langchain-community
